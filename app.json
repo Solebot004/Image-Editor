@@ -1,32 +1,32 @@
 {
-    "name": "Image-Editor-Bot",
+    "name": "LISA",
     "description": "A Bot that can Edit Images in various modes",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://graph.org/file/363060b78896c6a384a99.jpg",
     "keywords": [
         "Image",
         "Editor",
         "Telegram Bot",
-        "TroJanzHEX"
+        ""
     ],
-    "website": "https://TroJanzHEX.me",
+    "website": "https://t.me/sole_bots",
     "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://t.me/sole_bots",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "6671599645:AAEogUro_tkobCzijcsI36GTzm_oV5lU6NY"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "value": "d52c7824d0e66903a0724b800a16ce2c"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
-            "value": ""
+            "value": "22923523"
         },
         "RemoveBG_API": {
             "description": "Get this api from https://www.remove.bg/b/background-removal-api",
-            "value": "",
+            "value": "vCuhnUhz5vrqbEakzKujQHpg",
             "required": false
         },
         "WEBHOOK": {
