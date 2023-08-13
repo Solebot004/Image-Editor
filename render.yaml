@@ -14,8 +14,7 @@ services:
         sync: false
       - key: API_HASH
         sync: false
-      - key: ADMINS
-        sync: false
+      
       - key: RemoveBG_API
         sync: false
     autoDeploy: false
